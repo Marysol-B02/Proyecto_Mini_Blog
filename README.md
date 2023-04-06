@@ -3,10 +3,11 @@ Proyecto_Mini_Blog
 
 ### Creacion de un Sitio Web mini-blog con HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, Git, Github Page,  Con Diseño Reponsive Escalable.
 
-![](imagen/GLOG1.png)
+![](imagen/BLOG1.png)
 
-![](imagen/imagen2.png)
+![](imagen/Imagen2.png)
 
 ## URL DEL PROYECTO:
 
-https://github.com/Marysol-B02/Proyecto_Mini_Blog.git
+https://marysol-b02.github.io/Proyecto_Mini_Blog/
+ 
