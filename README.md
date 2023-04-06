@@ -9,4 +9,4 @@ Proyecto_Mini_Blog
 
 ## URL DEL PROYECTO:
 
-https://juancitopena.github.io/Mini_Blog_HTML_CSS_JS/
+https://github.com/Marysol-B02/Proyecto_Mini_Blog.git
